@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Yan! 👋
 
-<!--
-**alumobius/alumobius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **PhD Candidate in Mathematics at Nankai University**, currently visiting **Nanyang Technological University (NTU), Singapore**.
 
-Here are some ideas to get you started:
+My research interests lie at the intersection of **Applied Topology, Machine Learning, and Quantitative Finance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in understanding complex data through mathematical structures and developing methods that connect mathematical theory with real-world applications.
+
+### 🔬 Research Interests
+
+- Applied Topology & Topological Data Analysis
+- Machine Learning & Statistical Learning
+- Quantitative Finance & Financial Data Analysis
+- Topology-inspired Methods for Complex Data
+
+### 📂 Research & Code
+
+I'm currently organizing the code and reproducibility materials for my research projects.
+
+Related publications, implementations, and experimental resources will be added here as they become available.
+
+### ☕ Beyond Research
+
+Serious about research, not too serious about everything else. ☕️
+
+*From double salts to manifolds.* 🧪
